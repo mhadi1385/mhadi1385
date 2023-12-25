@@ -1,4 +1,4 @@
-![logo](https://github.com/mhadi1385/mhadi1385/blob/main/Purple%20Aquamarine%20Art%20Pixel%20Art%20Discord%20Profile%20Banner.gif)
+![logo](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
 <h1 align="center">Hi 👋, I'm M.hadi Iravani</h1>
 <h3 align="center">A LAZY! front-end student from Iran</h3>
 <img align="right" width="400" src="https://storage.googleapis.com/series-superrare-prod/0x00f713cdef9c8ab0eaa2e68225b7298fc064048a/the_big_city.gif"
